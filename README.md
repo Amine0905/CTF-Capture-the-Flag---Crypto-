@@ -11,3 +11,6 @@ Les flags à trouver
 - Flag 7 : `tme.primitive`
 - Flag 8 : `pki.cert`
 - Flag 9 : `rsa.keygen`
+- Flag 10 : `rsa.malleable`
+- Flag 11 : `rsa.reduction`
+- 
